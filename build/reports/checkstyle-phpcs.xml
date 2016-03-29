@@ -1,12 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="2.5.1">
-<file name="D:\xampp\htdocs\laravel-test-x\app\Http\routes.php">
- <error line="14" column="53" severity="error" message="Expected 0 blank lines after opening function brace; 1 found" source="Squiz.WhiteSpace.FunctionOpeningBraceSpace.SpacingAfter"/>
-</file>
-<file name="D:\xampp\htdocs\laravel-test-x\app\User.php">
- <error line="15" column="17" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Array.ArrayDeclaration.ValueNoNewline"/>
- <error line="15" column="26" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Array.ArrayDeclaration.ValueNoNewline"/>
- <error line="24" column="21" severity="error" message="Each value in a multi-line array must be on a new line" source="Framgia.Array.ArrayDeclaration.ValueNoNewline"/>
-</file>
 </checkstyle>
 
